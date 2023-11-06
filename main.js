@@ -45,5 +45,5 @@ function gotResult(error, results) {
         console.log(error);
     }
     console.log(results);
-    object = results;
+    objects = results;
 }
